@@ -15,7 +15,6 @@ Me gusta construir sistemas desde cero, entendiendo a fondo las necesidades del 
 - ✅ Análisis de requerimientos funcionales y no funcionales  
 - ✅ Casos de uso y modelado UML  
 - ✅ Modelado entidad-relación y diseño lógico de base de datos  
-- ✅ Arquitectura en capas, principios SOLID y patrones de diseño  
 
 ---
 
