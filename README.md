@@ -30,7 +30,6 @@ Me gusta construir sistemas desde cero, entendiendo a fondo las necesidades del 
 ![ReactJS](https://img.icons8.com/color/30/react-native.png)
 ![Java](https://img.icons8.com/color/30/java-coffee-cup-logo.png)
 ![Python](https://img.icons8.com/color/30/python.png)
-![Prisma](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/30/external-prisma-prisma-io-primary-logo-shadow-tal-revivo.png)
 
 ---
 
